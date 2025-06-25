@@ -10,4 +10,4 @@ const payment = "Integrated the payment gateway";
 console.log(payment);
 
 const upi = "UPI added";
-console.log(upi)
+console.log(upi);
